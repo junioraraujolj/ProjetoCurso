@@ -1,0 +1,1 @@
+alert("Olá! Bem-vindo ao nosso aplicativo!");
